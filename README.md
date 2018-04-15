@@ -8,3 +8,4 @@ The subsequent notebooks really build on ideas presented in the first one. We ai
 1. `demographicModelSelectionExample.ipynb`- using a Random Forest classifier for doing demographic model selection
 2. `sweepDetectionExample.ipynb` - using a Support Vector Machine classifier for detecting & categorizing sweeps
 3. `ancPopSizeRegressionExample.ipynb` - using Random Forest regression to estimate past population size
+
